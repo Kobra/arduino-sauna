@@ -130,6 +130,7 @@ void checkTemp(float temp) {
     firstCD = false;
     secondCD = false;
     CD = false;
+    hiTempAlarm = false;
   }
 }
 
