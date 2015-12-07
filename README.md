@@ -2,6 +2,8 @@
 
 **Control sauna temperature.**
 
+(based on my [arduino-boiler](https://github.com/Kobra/arduino-boiler))
+
 Arduino parts:
  * Arduino (i use UNOr3)
  * Relay (i use 10A relay 1 channel. Connected to PIN 2)
