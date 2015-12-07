@@ -1,4 +1,4 @@
-# arduino-boiler
+# arduino-sauna
 
 **Control sauna temperature.**
 
